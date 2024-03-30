@@ -6,5 +6,5 @@ module "helm-nginx" {
 
   cpu_max = "300m"
   mem_max = "1024Mi"
-
+  
 }

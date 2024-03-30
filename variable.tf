@@ -20,5 +20,4 @@ variable cpu_max {
 }
 
 variable mem_max {
-    
 }
